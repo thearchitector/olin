@@ -1,0 +1,7 @@
+# Reflection on MP2
+
+> "_From a process point of view, what went well? What could you improve? Other possible reflection topics: Was your project appropriately scoped? Did you have a good plan for unit testing? How will you use what you learned going forward? What do you wish you knew before you started that would have helped you succeed?_"
+
+I think that mini-project 2 went very well. I was a bit unsure when beginning the project, but after reviewing the project document and requirements, I felt more comfortable. I started MP2 early (the same day it was assigned), and finished the MVP of the project early as well (2/16/19). Rather than leave it, I decided to challenge myself by exploring the "going beyond" section and implemeting lambda functions. I finished that fairly quickly as well, so I decided to challenge myself even more by implementing multiprocessing. While it wasn't a part of the going beyond section, I wasn't happy with the speed of the program and decided to use the opportunity to learn more about multiprocessing (vs. multithreading) with Python, and pickling. I did research on Python's capabilities and how to use them. Throughout the process, I commented my code so that I could reference it again in case I needed it in a future project.
+
+I decided to start exploring my own options for expanding my project because I wanted to challenge myself. Overall, I think the project went really well. It was a bit underscoped at introduction, but I challenged myself appropriately and tackled a new problem to help me learn new skills and concepts.
